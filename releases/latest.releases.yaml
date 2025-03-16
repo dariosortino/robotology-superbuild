@@ -302,4 +302,4 @@ repositories:
   BiomechanicalAnalysisFramework:
     type: git
     url: https://github.com/ami-iit/biomechanical-analysis-framework.git
-    version: v0.1.0
+    version: v0.2.0
